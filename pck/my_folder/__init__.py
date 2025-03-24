@@ -1,0 +1,1 @@
+from deep_file import CONSTANT2

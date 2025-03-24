@@ -1,0 +1,1 @@
+CONSTANT2 = 'HI THERE'
